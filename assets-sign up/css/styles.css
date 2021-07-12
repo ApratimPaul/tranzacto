@@ -1,0 +1,86 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #c8d8e4;
+}
+
+#login {
+  height: 80vh;
+  background-color: transparent;
+  padding: 0px 70px 0;
+  width: 70vh;
+}
+
+.btn.btn-primary.d-block.w-100 {
+  background-color: #2b6777;
+}
+
+.fas.fa-cash-register {
+  font-size: 80px;
+}
+
+#logo {
+  width: 800px;
+  border-color: #2b6777!important;
+}
+
+#main-row {
+  justify-content: center;
+  align-items: center;
+}
+
+#login-section {
+  border: 2px solid red;
+  background-color: rgba(82,171,152,0.51);
+  box-shadow: 2px 2px 10px 3px grey;
+  /*height: 70vh;*/
+}
+
+#login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 55px;
+}
+
+.forgot {
+  font-size: 16px;
+}
+
+#insta {
+  position: relative;
+  /*height: 50px;*/
+  right: 0px;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#link-img {
+  height: 50px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+#name-input {
+  display: flex;
+}
+
+#password-input {
+  display: flex;
+}
+

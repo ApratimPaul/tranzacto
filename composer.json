@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.19",
+        "omnipay/paypal": "^3.0",
+        "spipu/html2pdf": "^5.2"
+    }
+}
